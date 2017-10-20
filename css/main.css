@@ -1,3 +1,93 @@
-.title, .base {
+.title {
   background-color: #ffc107;
+  display: inline-block;
+  
+  height: 40px;
+  width: 600px;
+  margin-top: 25px;
+  padding: 5px;
+  position: relative;
+
+}
+
+.title span{
+	display: inline-block;
+	height: 21px;
+	width: 450px;
+	text-align: center;
+	position: relative;
+}
+
+
+.first-column {
+	position: absolute;
+	top: 30px;
+	right: 300px;
+	bottom: 8px;
+	left: 0;
+	height: 600px;
+	width: 200px;
+}
+
+.first-column p{
+	height: 500px;
+	text-align: justify;
+	padding: 10px;
+}
+
+
+.second-column {
+	position: absolute;
+	top: 30px;
+	right: 150px;
+	bottom: 8px;
+	left: 180px;
+	height: 600px;
+	width: 242px;
+}
+
+.second-column p{
+	text-align: justify;
+	padding: 30px;
+}
+
+.first-p {
+	padding: 30px 30px 0px 30px;
+}
+
+.second-p {
+	padding: 0px 30px 30px 30px;
+}
+
+.third-column{
+	position: absolute;
+	top: 30px;
+	right: -15px;
+	bottom: 8px;
+	left: 100;
+	height: 600px;
+	width: 200px;
+}
+
+.third-column p{
+	text-align: justify;
+	padding: 30px;
+}
+
+.title .before {
+	height: 32px;
+	width: 50px;
+	display: inline;
+	margin-left: 80px;
+}
+
+.base {
+  background-color: #ffc107;
+  display: inline-block;
+  
+  height: 31px;
+  width: 536px;
+  padding: 15px;
+  position: absolute;
+
 }
