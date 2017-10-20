@@ -32,3 +32,7 @@ En esta carpeta van las imagenes que utilizamos para darle estilo a nuestro trip
 ____
 
     Trabajo realizado por el Squad "Women@Design" :)
+    * Claudia Zarate
+    * Lesly
+    * Karina
+    * Lizbeth Félix
